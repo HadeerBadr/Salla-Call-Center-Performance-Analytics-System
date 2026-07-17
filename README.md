@@ -12,6 +12,8 @@ This solution enables managers and decision-makers to evaluate service quality, 
 <!-- 📸 Add a demo screenshot or GIF here -->
 <!-- ![Dashboard Preview](assets/dashboard-preview.gif) -->
 
+![home](home.jpg)
+
 ---
 
 ## 🎯 Business Problem
@@ -104,7 +106,7 @@ This project addresses these challenges by providing a centralized analytics pla
 ---
 
 ## 🗂️ Dashboard Structure
-
+ ![overview](overview.jpg)
 ### 1️⃣ Executive Overview
 Summary of the most important KPIs:
 - Total Calls Offered
@@ -119,6 +121,7 @@ Summary of the most important KPIs:
 - Agent Ranking
 - Handled Calls by Agent
 - Individual Performance Comparison
+  ![ Analysis](analysis.jpg)
 
 ### 3️⃣ Operational Analysis Dashboard
 - Monthly Call Volumes
@@ -227,7 +230,7 @@ Through this project, the following analytical capabilities were implemented:
 *Computer Science Graduate | Data Analyst | Business Intelligence Developer*
 
 **Areas of Interest:**
-Data Analytics · Business Intelligence · Data Engineering · Artificial Intelligence · Machine Learning
+Data Analytics · Business Intelligence · Data Engineering · Data Engineer · Machine Learning
 
 📎 GitHub: [HadeerBadr](https://github.com/HadeerBadr)
 🔗 LinkedIn: [hadeer-badr](https://www.linkedin.com/in/hadeer-badr)
